@@ -1,0 +1,14 @@
+{
+  "name": "ip9x-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Vad Holovin",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
+}
